@@ -24,4 +24,4 @@ mklink /j <目标文件夹> <源文件夹>
 ![](https://user-images.githubusercontent.com/18024882/37070820-6cf0f322-21f4-11e8-8b69-ed66b392c4ba.png)
 
 ## 使用
-![](https://user-images.githubusercontent.com/18024882/37070820-6cf0f322-21f4-11e8-8b69-ed66b392c4ba.png)
+![](https://user-images.githubusercontent.com/18024882/37070707-cdbf5230-21f3-11e8-9c9b-3e919bf1a0fd.png)
