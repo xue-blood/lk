@@ -21,7 +21,7 @@ mklink /j <目标文件夹> <源文件夹>
 在终端下执行: ln -s <源路径> <目标路径>
 
 ## 安装
-https://user-images.githubusercontent.com/18024882/37070820-6cf0f322-21f4-11e8-8b69-ed66b392c4ba.png
+![](https://user-images.githubusercontent.com/18024882/37070820-6cf0f322-21f4-11e8-8b69-ed66b392c4ba.png)
 
 ## 使用
-https://user-images.githubusercontent.com/18024882/37070820-6cf0f322-21f4-11e8-8b69-ed66b392c4ba.png
+![](https://user-images.githubusercontent.com/18024882/37070820-6cf0f322-21f4-11e8-8b69-ed66b392c4ba.png)
